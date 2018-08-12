@@ -1,6 +1,6 @@
 git的仓库是.git下
 
-
+daddasd
 svn是在另一个地方下面先create repository here 再换一个地方进行操作
 你可以模拟两个人在checkout 之后add下  经常update commit提交 一下 顺便注释一下
 
